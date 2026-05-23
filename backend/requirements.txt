@@ -14,3 +14,4 @@ faiss-cpu
 sentence-transformers
 langchain-text-splitters
 langchain-community
+youtube_summarizer
