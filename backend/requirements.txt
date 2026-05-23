@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+requests
+python-multipart
+pypdf
+python-dotenv
+ddgs
+pandas
+youtube-transcript-api>=1.2.4
+langchain-google-genai
+faiss-cpu
+sentence-transformers
+langchain-text-splitters
+langchain-community
